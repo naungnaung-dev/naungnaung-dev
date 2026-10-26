@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Naung Naung 👋
 
-<!--
-**naungnaung-dev/naungnaung-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | 5+ Years of Experience
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer from Myanmar, currently based in Bangkok, Thailand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in building modern, responsive, and scalable web applications using React, Next.js, Node.js, Vue.js, and Laravel.
+
+I have professional experience in frontend development, backend services, RESTful APIs, database design, and UI/UX development.
+
+### About Me
+
+- 💻 Full-Stack Developer with 5+ years of experience
+- 🚀 Building **AskOnce**, an independent full-stack web product
+- 🛠️ Experienced with React, Next.js, Vue.js, Node.js, and Laravel
+- 🌱 Continuously learning and improving my software engineering skills
+- 🤝 Open to full-time, part-time, and contract opportunities
+
+### Tech Stack
+
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vue.js, Tailwind CSS, Bootstrap
+
+**Backend:** Node.js, Express.js, PHP, Laravel, RESTful APIs
+
+**Databases:** MySQL, MongoDB
+
+**Tools:** Git, GitHub, Figma, Docker, Swagger, Vercel
+
+### Featured Project — AskOnce
+
+AskOnce helps social media sellers present their product information clearly in one place, reduce repetitive customer questions, and simplify the ordering process.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, MongoDB
+
+[Visit AskOnce](https://askonceapp.com) | [Explore Demo](https://askonceapp.com/askonce-demo-page)
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/naung-naung/)
+- Portfolio: Coming soon
+
+*Open to opportunities and collaboration.*
